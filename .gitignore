@@ -1,5 +1,5 @@
 # 
-*.h5
+model/*.h5
 best_model.h5
 
 # Byte-compiled / optimized / DLL files
