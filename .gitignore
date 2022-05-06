@@ -2,6 +2,7 @@
 best_model.h5
 *.h5
 *.txt
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
